@@ -1,14 +1,3 @@
----
-title: OCHP 1.5 JSON v0.0.1
-language_tabs: []
-toc_footers: []
-includes: []
-search: true
-highlight_theme: darkula
-headingLevel: 2
-
----
-
 <!-- Generator: Widdershins v4.0.1 -->
 
 <h1 id="ochp-1-5-json">OCHP 1.5 JSON v0.0.1</h1>
